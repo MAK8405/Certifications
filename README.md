@@ -1,6 +1,6 @@
-## 🏅 Certifications
+# 🏅 Certifications
 
-### 🔧 Git & GitHub Full Course
+## 🔧 Git & GitHub Full Course
 
 **Issuer:** Fireship.io  
 **Date:** April 28, 2025
